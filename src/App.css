@@ -1,0 +1,68 @@
+/* HEADER */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-menu {
+  display: flex;
+}
+
+.header-menu h3 {
+  padding: 0 10px
+}
+
+/* MAIN */
+
+.main-content {
+  display: flex;
+}
+
+.main-div {
+  border: 0.5px solid grey;
+  background-color: lightgrey;
+  height: 80vh;
+  width: 80vw;
+  margin: auto;
+}
+
+/* MAIN => TOP */
+
+.title-menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+
+.top-menu {
+  display: flex;
+  justify-content: space-evenly;
+  text-decoration: underline;
+}
+
+.search-bar {
+  padding: 0 15px;
+}
+
+/* MAIN => MID*/
+
+.screen {
+  height: 60vh;
+  width: 75vw;
+  background-color: white;
+  margin: auto
+}
+
+.screen-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.picto-face {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 10px;
+}
+
+/* RIGHT */

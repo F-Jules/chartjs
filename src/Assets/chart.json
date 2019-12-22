@@ -1,0 +1,59 @@
+{
+  "campaign": {
+    "name": "Smart GLass Kickstarter Launch",
+    "start": "2020-01-01",
+    "launch": "2020-03-02"
+  },
+  "products": [
+    {
+      "name": "Research",
+      "color": "#009688",
+      "start": "2020-01-01",
+      "duration_days": "14"
+    },
+    {
+      "name": "Strategy",
+      "color": "#8bc34a",
+      "start": "2020-01-13",
+      "duration_days": "10"
+    },
+    {
+      "name": "Branding",
+      "color": "#ff5722",
+      "start": "2020-01-23",
+      "duration_days": "10",
+      "exclamation_icon": true
+    },
+    {
+      "name": "Video",
+      "color": "#f44336",
+      "start": "2020-01-29",
+      "duration_days": "30"
+    },
+    {
+      "name": "Website",
+      "color": "#3f51b5",
+      "start": "2020-01-29",
+      "duration_days": "30",
+      "exclamation_icon": true
+    },
+    {
+      "name": "Social",
+      "color": "#00bcd4",
+      "start": "2020-01-31",
+      "duration_days": "45"
+    },
+    {
+      "name": "Outreach",
+      "color": "#2196f3",
+      "start": "2020-02-03",
+      "duration_days": "40"
+    },
+    {
+      "name": "Content",
+      "color": "#9c27b0",
+      "start": "2020-02-10",
+      "duration_days": "21"
+    }
+  ]
+}
